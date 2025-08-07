@@ -1,2 +1,1 @@
-# APC1-Noite
-Algoritmos e Programacao de Computador 1
+# Algoritmos e Programacao de Computador 1
